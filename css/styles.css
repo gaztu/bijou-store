@@ -1,0 +1,30 @@
+body {
+    background: rgb(166, 166, 237);
+    text-align: center;
+}
+
+h1, h3 {
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+
+.social-buttons ul {
+    margin: 5rem 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.social-buttons ul li {
+    display: inline;
+    margin: 0 2rem;
+}
+
+.social-buttons ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.social-buttons ul li a:hover {
+    color: rgb(83,83,118);
+}
